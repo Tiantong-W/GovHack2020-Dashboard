@@ -32,7 +32,7 @@ There could be a lot of perspectives on how to use and analyse the collected dat
 
 # Our Project
 
-# GovHack 2020 - Citizen Science
+## GovHack 2020 - Citizen Science
 
 [![Click for Video](https://github.com/DVacirca/govhack_citizen_science/blob/master/src/assets/ViedoYoutube.png)](https://www.youtube.com/watch?v=mDHmGwBYiac&feature=youtu.be "Click for Video")
 
@@ -113,6 +113,7 @@ So altogether, here is how it all works. Every time a volunteer uses MaskCount, 
 
 At a state level, this could help assist the government to improve communication to the public around mandatory restrictions but also in the future, this can help scientists and researchers better understand the impact of a global pandemic on Australians when we look back on 2020.
 
+### Dashboard Desktop
 
 ![alt text](https://github.com/Tiantong-W/GovHack-CitizenScience/blob/master/DashBoard%20%26%20Infographics/Dashboard-general.png "DashBoard") 
 
