@@ -113,7 +113,13 @@ So altogether, here is how it all works. Every time a volunteer uses MaskCount, 
 
 At a state level, this could help assist the government to improve communication to the public around mandatory restrictions but also in the future, this can help scientists and researchers better understand the impact of a global pandemic on Australians when we look back on 2020.
 
+***
+
 ### Dashboard Desktop
 
 ![alt text](https://github.com/Tiantong-W/GovHack-CitizenScience/blob/master/DashBoard%20%26%20Infographics/Dashboard-general.png "DashBoard") 
+
+### Dashboard Mobile
+
+![](https://github.com/Tiantong-W/GovHack2020-Dashboard/blob/master/Dashboard-productimage/Dashboard-Phone.png)
 
