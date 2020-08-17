@@ -117,9 +117,8 @@ At a state level, this could help assist the government to improve communication
 
 ### Dashboard Desktop
 
-![alt text](https://github.com/Tiantong-W/GovHack-CitizenScience/blob/master/DashBoard%20%26%20Infographics/Dashboard-general.png "DashBoard") 
+<img src="https://github.com/Tiantong-W/GovHack-CitizenScience/blob/master/DashBoard%20%26%20Infographics/Dashboard-general.png" alt="drawing" width="800"/>
 
 ### Dashboard Mobile
 
-![](https://github.com/Tiantong-W/GovHack2020-Dashboard/blob/master/Dashboard-productimage/Dashboard-Phone.png)
-
+<img src="https://github.com/Tiantong-W/GovHack2020-Dashboard/blob/master/Dashboard-productimage/Dashboard-Phone.png" alt="drawing" width="300"/>
